@@ -4,7 +4,7 @@
 
 Name: Villanueva, Janelle Yoanna S. 
 Student ID: 24-6226-617 
-Course/Section:** BSIT  3H-A
+Course/Section: BSIT  3H-A
 
 ---
 
